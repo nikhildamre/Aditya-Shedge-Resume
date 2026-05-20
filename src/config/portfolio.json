@@ -1,0 +1,219 @@
+{
+  "personal": {
+    "name": "Aditya Shedge",
+    "role": "Photographer | Graphic Designer | Event Manager",
+    "description": "I create compelling visual experiences through photography, design, and seamless event management. From capturing live performances to designing brand identities and orchestrating memorable events.",
+    "avatar": "/avatar.jpg",
+    "location": "Mumbai, Maharashtra, India",
+    "email": "adityashedge003@gmail.com",
+    "phone": "+91 8087560478",
+    "socials": [
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/adityashedge"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/adityashedge",
+        "icon": "facebook"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/adityashedge"
+      },
+      {
+        "platform": "Behance",
+        "url": "https://behance.net/adityashedge"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "description": "As a multi-disciplinary creative professional, I blend photography, graphic design, and event management to deliver comprehensive visual and experiential solutions. My expertise spans capturing dynamic live performances, creating compelling brand identities, and orchestrating seamless events that leave lasting impressions.",
+    "resume": "/resume.pdf"
+  },
+  "projects": [
+    {
+      "title": "Live Concert Photography",
+      "description": "Captured the energy and essence of major live performances including Coldplay, Karan Aujla, Diljit Dosanjh, Aditya Ghavi, and Dua Lipa. Each event presented unique challenges in dynamic lighting and fast-paced environments, requiring precision timing and creative composition to translate the intensity of live music into captivating visual storytelling.",
+      "tags": ["Concert Photography", "Live Music", "Event Photography", "Visual Storytelling"],
+      "image": "/images/ICSICE CONF.png",
+      "url": "#",
+      "github": "#",
+      "category": "Photography",
+      "featured": true,
+      "duration": "May 2024 - Present"
+    },
+    {
+      "title": "Wedding Photography & Design",
+      "description": "Comprehensive wedding documentation and design services covering multi-day celebrations from Mehendi to Sangeet and Wedding ceremonies. Combined photography expertise with graphic design skills to create cohesive visual narratives, wedding invitations, and branded materials that capture the essence of each couple's unique story.",
+      "tags": ["Wedding Photography", "Graphic Design", "Brand Identity", "Print Design"],
+      "image": "/images/ARTVPP APPLICATION.png",
+      "url": "#",
+      "github": "#",
+      "category": "Photography & Design",
+      "featured": true,
+      "duration": "Mar 2024 - Present"
+    },
+    {
+      "title": "Event Management & Visual Documentation",
+      "description": "End-to-end event management services from luxury car launches to boutique openings, combining strategic planning with comprehensive visual documentation. Managed logistics, vendor coordination, and timeline execution while simultaneously capturing key moments through photography and creating supporting marketing materials.",
+      "tags": ["Event Management", "Commercial Photography", "Project Management", "Marketing Materials"],
+      "image": "/images/SpotLight.png",
+      "url": "#",
+      "github": "#",
+      "category": "Event Management",
+      "featured": true,
+      "duration": "Mar 2026 - Present"
+    },
+    {
+      "title": "Brand Identity & Graphic Design",
+      "description": "Created comprehensive brand identities and marketing materials for various clients, including logo design, business cards, brochures, and digital assets. Combined creative vision with strategic thinking to develop visual identities that effectively communicate brand values and resonate with target audiences.",
+      "tags": ["Brand Identity", "Logo Design", "Print Design", "Digital Design"],
+      "image": "/images/Carebridege.png",
+      "url": "#",
+      "github": "#",
+      "category": "Graphic Design",
+      "featured": true,
+      "duration": "2024 - Present"
+    },
+    {
+      "title": "Corporate Event Photography",
+      "description": "Professional documentation of corporate events, conferences, and business gatherings. Specialized in capturing key moments, networking sessions, and presentations while maintaining a professional aesthetic that aligns with corporate brand guidelines and communication objectives.",
+      "tags": ["Corporate Photography", "Event Documentation", "Professional Photography", "Business Events"],
+      "image": "/images/Welth.png",
+      "url": "#",
+      "github": "#",
+      "category": "Photography",
+      "featured": false,
+      "duration": "2024 - Present"
+    },
+    {
+      "title": "Social Media Content Creation",
+      "description": "Developed engaging visual content for social media platforms, combining photography skills with graphic design expertise to create cohesive brand narratives. Created templates, graphics, and visual assets that drive engagement and maintain consistent brand presence across digital platforms.",
+      "tags": ["Social Media Design", "Content Creation", "Digital Marketing", "Visual Branding"],
+      "image": "/images/AI ARTICLE.png",
+      "url": "#",
+      "github": "#",
+      "category": "Graphic Design",
+      "featured": false,
+      "duration": "2024 - Present"
+    }
+  ],
+  "skills": [
+    { "name": "Adobe Photoshop" },
+    { "name": "Adobe Photoshop Lightroom CC" },
+    { "name": "Adobe Illustrator" },
+    { "name": "Adobe After Effects" },
+    { "name": "DaVinci Resolve" },
+    { "name": "Capcut" },
+    { "name": "Creative Direction" },
+    { "name": "Event Photography" },
+    { "name": "Wedding Photography" },
+    { "name": "Concert Photography" },
+    { "name": "Portrait Photography" },
+    { "name": "Commercial Photography" },
+    { "name": "Brand Identity Design" },
+    { "name": "Logo Design" },
+    { "name": "Print Design" },
+    { "name": "Digital Design" },
+    { "name": "Social Media Design" },
+    { "name": "Marketing Materials" },
+    { "name": "Event Management" },
+    { "name": "Event Planning" },
+    { "name": "Project Management" },
+    { "name": "Vendor Coordination" },
+    { "name": "Timeline Management" },
+    { "name": "Client Relations" },
+    { "name": "Budget Management" },
+    { "name": "Photo Editing" },
+    { "name": "Color Grading" },
+    { "name": "Visual Storytelling" },
+    { "name": "Lighting Techniques" },
+    { "name": "Composition" },
+    { "name": "Typography" },
+    { "name": "Layout Design" },
+    { "name": "Content Creation" }
+  ],
+  "experience": [
+    {
+      "company": "book my show",
+      "role": "Junior Photographer & Event Coordinator",
+      "startDate": "Mar 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Capturing high-energy live performances and major entertainment events",
+        "Photographed renowned artists including Coldplay, Karan Aujla, Diljit Dosanjh, Aditya Ghavi, and Dua Lipa",
+        "Coordinating event logistics and managing photography teams during large-scale concerts",
+        "Creating visual content and promotional materials for event marketing",
+        "Managing client relationships and ensuring seamless event execution",
+        "Developing creative concepts that align with artist branding and event themes"
+      ]
+    },
+    {
+      "company": "Photography Crew",
+      "role": "Live Performance Photographer",
+      "startDate": "May 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Capturing the energy and essence of live performances at notable events",
+        "Photographed major artists including Coldplay, Karan Aujla, Diljit Dosanjh, Aditya Ghadvi, and Dua Lipa",
+        "Translating the intensity of live music into captivating visual storytelling",
+        "Working in dynamic, fast-paced environments with challenging lighting conditions",
+        "Ensuring every moment is captured with precision and passion",
+        "Adapting to unique atmospheres and performance styles of different artists"
+      ]
+    },
+    {
+      "company": "Freelance Wedding Photography",
+      "role": "Wedding Photographer & Visual Storyteller",
+      "startDate": "Mar 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Capturing vibrant energy and intricate rituals of multi-day wedding events",
+        "Documenting colorful Mehendi ceremonies, joyous Sangeet celebrations, and sacred Wedding ceremonies",
+        "Framing each moment with natural, storytelling style highlighting emotion and tradition",
+        "Capturing candid joy and authentic moments throughout wedding celebrations",
+        "Creating comprehensive visual narratives that preserve precious memories",
+        "Working closely with families to understand cultural significance and preferences"
+      ]
+    },
+    {
+      "company": "Diverse Event Photography Services",
+      "role": "Event Photographer & Creative Director",
+      "startDate": "Mar 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Photographing wide range of special moments across diverse commercial events",
+        "Capturing excitement of luxury car deliveries and grand openings of boutique shops",
+        "Focusing on detail, emotion, and unique atmosphere that defines each event",
+        "Providing creative direction for event visual documentation",
+        "Managing client expectations and delivering high-quality visual content",
+        "Adapting photography style to match brand identity and event objectives"
+      ]
+    },
+    {
+      "company": "Freelance Creative Services",
+      "role": "Graphic Designer & Brand Consultant",
+      "startDate": "Jan 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Designing comprehensive brand identities and marketing materials for various clients",
+        "Creating logos, business cards, brochures, and digital assets",
+        "Developing visual identities that effectively communicate brand values",
+        "Providing creative consultation for brand positioning and visual strategy",
+        "Managing multiple design projects with tight deadlines",
+        "Building long-term client relationships through exceptional creative solutions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vasantdada Patil Pratishthan College Of Engineering And Visual Arts",
+      "degree": "Bachelor of Visual Arts (B.V.A.), Visual Arts",
+      "startDate": "2022",
+      "endDate": "2026",
+      "description": "Specialized in Visual Arts with focus on photography, design, and creative direction"
+    }
+  ]
+}

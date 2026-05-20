@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    html {
+        @apply antialiased;
+    }
+
+    body {
+        @apply bg-primary-50 text-primary-900 font-sans leading-relaxed;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+        @apply font-title tracking-snug;
+    }
+
+    /* Hero text styling */
+    .hero-title {
+        @apply font-display font-bold tracking-tight;
+    }
+
+    /* Section titles */
+    .section-title {
+        @apply font-title font-bold tracking-medium;
+    }
+
+    /* Body text */
+    .body-text {
+        @apply font-sans tracking-wide;
+    }
+}
+
+/* Custom utility classes */
+@layer components {
+    .container-custom {
+        @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+    }
+
+    .text-balance {
+        text-wrap: balance;
+    }
+
+    .line-clamp-2 {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .line-clamp-3 {
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    .perspective-1000 {
+        perspective: 1000px;
+    }
+
+    .shimmer {
+        background: rgba(255, 255, 255, 0.4);
+    }
+
+    .gradient-text {
+        color: #1f2937;
+    }
+
+    .glass-effect {
+        backdrop-filter: blur(20px);
+        background: rgba(255, 255, 255, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+}
