@@ -10,7 +10,7 @@
     "socials": [
       {
         "platform": "Instagram",
-        "url": "https://instagram.com/adityashedge"
+        "url": "https://www.instagram.com/raw.creative01"
       },
       {
         "platform": "Facebook",
@@ -34,68 +34,213 @@
   },
   "projects": [
     {
-      "title": "Live Concert Photography",
-      "description": "Captured the energy and essence of major live performances including Coldplay, Karan Aujla, Diljit Dosanjh, Aditya Ghavi, and Dua Lipa. Each event presented unique challenges in dynamic lighting and fast-paced environments, requiring precision timing and creative composition to translate the intensity of live music into captivating visual storytelling.",
-      "tags": ["Concert Photography", "Live Music", "Event Photography", "Visual Storytelling"],
-      "image": "/images/ICSICE CONF.png",
+      "title": "Wedding Photography",
+      "description": "Captured the vibrant energy and intricate rituals of multi-day wedding events, from colorful Mehendi ceremonies to joyous Sangeet celebrations and sacred Wedding ceremonies. Each moment was framed with a natural, storytelling style, highlighting emotion, tradition, and candid joy through professional wedding documentation.",
+      "tags": ["Wedding Photography", "Mehendi Photography", "Sangeet Photography", "Traditional Events", "Candid Photography"],
+      "image": "/shoot/Wedding PhotoGraphy/wedding img cover.jpeg",
+      "gallery": [
+        "/shoot/Wedding PhotoGraphy/wedding img 1.jpeg",
+        "/shoot/Wedding PhotoGraphy/wedding img 2.jpeg",
+        "/shoot/Wedding PhotoGraphy/wedding img 3.jpeg",
+        "/shoot/Wedding PhotoGraphy/wedding img 4.jpeg",
+        "/shoot/Wedding PhotoGraphy/wedding img 5.jpeg",
+        "/shoot/Wedding PhotoGraphy/wedding img 6.jpeg",
+        "/shoot/Wedding PhotoGraphy/wedding img 7.jpeg",
+        "/shoot/Wedding PhotoGraphy/wedding img 8.jpeg",
+        "/shoot/Wedding PhotoGraphy/wedding img 9.jpeg"
+      ],
       "url": "#",
-      "github": "#",
-      "category": "Photography",
-      "featured": true,
-      "duration": "May 2024 - Present"
-    },
-    {
-      "title": "Wedding Photography & Design",
-      "description": "Comprehensive wedding documentation and design services covering multi-day celebrations from Mehendi to Sangeet and Wedding ceremonies. Combined photography expertise with graphic design skills to create cohesive visual narratives, wedding invitations, and branded materials that capture the essence of each couple's unique story.",
-      "tags": ["Wedding Photography", "Graphic Design", "Brand Identity", "Print Design"],
-      "image": "/images/ARTVPP APPLICATION.png",
-      "url": "#",
-      "github": "#",
-      "category": "Photography & Design",
+      "category": "Wedding Photography",
       "featured": true,
       "duration": "Mar 2024 - Present"
     },
     {
-      "title": "Event Management & Visual Documentation",
-      "description": "End-to-end event management services from luxury car launches to boutique openings, combining strategic planning with comprehensive visual documentation. Managed logistics, vendor coordination, and timeline execution while simultaneously capturing key moments through photography and creating supporting marketing materials.",
-      "tags": ["Event Management", "Commercial Photography", "Project Management", "Marketing Materials"],
-      "image": "/images/SpotLight.png",
+      "title": "Event Photography",
+      "description": "Professional documentation of diverse events including corporate gatherings, cultural celebrations, and special occasions. Captured the excitement of live performances, audience engagement, and key moments with focus on detail, emotion, and the unique atmosphere that defines each event.",
+      "tags": ["Event Photography", "Live Events", "Corporate Events", "Cultural Events", "Performance Photography"],
+      "image": "/shoot/Event Photography/Event Cover Image.jpeg",
+      "gallery": [
+        "/shoot/Event Photography/Event image 1.jpeg",
+        "/shoot/Event Photography/Event Image 2.jpeg",
+        "/shoot/Event Photography/Event image 3.jpeg",
+        "/shoot/Event Photography/Event Image 4.jpeg",
+        "/shoot/Event Photography/Event image 5.jpeg",
+        "/shoot/Event Photography/Event image 6.jpeg",
+        "/shoot/Event Photography/Event image 7.jpeg",
+        "/shoot/Event Photography/Event image 8.jpeg",
+        "/shoot/Event Photography/Event image 9.jpeg",
+        "/shoot/Event Photography/Event image 10.jpeg",
+        "/shoot/Event Photography/Event image 11.jpeg",
+        "/shoot/Event Photography/Event image 12.jpeg",
+        "/shoot/Event Photography/Event image 13.jpeg",
+        "/shoot/Event Photography/Event image 14.jpeg",
+        "/shoot/Event Photography/Event image 15.jpeg",
+        "/shoot/Event Photography/Event image 16.jpeg",
+        "/shoot/Event Photography/Event image 17.jpeg"
+      ],
       "url": "#",
-      "github": "#",
-      "category": "Event Management",
+      "category": "Event Photography",
       "featured": true,
-      "duration": "Mar 2026 - Present"
+      "duration": "May 2024 - Present"
     },
     {
-      "title": "Brand Identity & Graphic Design",
-      "description": "Created comprehensive brand identities and marketing materials for various clients, including logo design, business cards, brochures, and digital assets. Combined creative vision with strategic thinking to develop visual identities that effectively communicate brand values and resonate with target audiences.",
-      "tags": ["Brand Identity", "Logo Design", "Print Design", "Digital Design"],
-      "image": "/images/Carebridege.png",
+      "title": "Portrait Photography",
+      "description": "Professional portrait sessions capturing personality, character, and authentic expressions. Specialized in creating compelling portraits that tell individual stories through careful attention to lighting, composition, and emotional connection with subjects.",
+      "tags": ["Portrait Photography", "Professional Headshots", "Character Photography", "Studio Photography"],
+      "image": "/shoot/Portrait/Potraits cover.jpeg",
+      "gallery": [
+        "/shoot/Portrait/Portraits img 1.jpeg",
+        "/shoot/Portrait/portraint img 2.jpeg",
+        "/shoot/Portrait/portraint img 3.jpeg",
+        "/shoot/Portrait/portraint img 4.jpeg",
+        "/shoot/Portrait/portraint img 5.jpeg",
+        "/shoot/Portrait/portraint img 6.jpeg",
+        "/shoot/Portrait/portraint img 7.jpeg",
+        "/shoot/Portrait/portraint img 8.jpeg"
+      ],
       "url": "#",
-      "github": "#",
-      "category": "Graphic Design",
+      "category": "Portrait Photography",
       "featured": true,
       "duration": "2024 - Present"
     },
     {
-      "title": "Corporate Event Photography",
-      "description": "Professional documentation of corporate events, conferences, and business gatherings. Specialized in capturing key moments, networking sessions, and presentations while maintaining a professional aesthetic that aligns with corporate brand guidelines and communication objectives.",
-      "tags": ["Corporate Photography", "Event Documentation", "Professional Photography", "Business Events"],
-      "image": "/images/Welth.png",
+      "title": "Product Photography",
+      "description": "High-quality commercial product photography for brands and businesses. Specialized in creating visually appealing product shots that highlight features, textures, and brand identity while maintaining professional standards for marketing and e-commerce use.",
+      "tags": ["Product Photography", "Commercial Photography", "Brand Photography", "E-commerce Photography"],
+      "image": "/shoot/Product Photogrphy/product photography cover.jpeg",
+      "gallery": [
+        "/shoot/Product Photogrphy/product photography img 1.jpeg",
+        "/shoot/Product Photogrphy/product photography img 2.jpeg",
+        "/shoot/Bisler Product/Bisleri product cover.jpeg",
+        "/shoot/Bisler Product/Bisleri product image 1.jpeg",
+        "/shoot/Ponds Product/Ponds Product cover.jpeg",
+        "/shoot/Ponds Product/Ponds Product Image 1.jpeg"
+      ],
       "url": "#",
-      "github": "#",
-      "category": "Photography",
+      "category": "Commercial Photography",
+      "featured": true,
+      "duration": "2024 - Present"
+    },
+    {
+      "title": "Outdoor & Travel Photography",
+      "description": "Capturing the beauty of natural landscapes, outdoor adventures, and travel experiences. Focused on showcasing the essence of different locations through dynamic compositions and natural lighting techniques.",
+      "tags": ["Outdoor Photography", "Travel Photography", "Landscape Photography", "Nature Photography"],
+      "image": "/shoot/Outdoor Photography/Outdoor image cover.jpeg",
+      "gallery": [
+        "/shoot/Outdoor Photography/Outdoor image 1.jpeg",
+        "/shoot/Outdoor Photography/Outdoor image 2.jpeg",
+        "/shoot/Outdoor Photography/Outdoor image 3.jpeg",
+        "/shoot/Outdoor Photography/Outdoor image 4.jpeg",
+        "/shoot/Outdoor Photography/Outdoor image 5.jpeg"
+      ],
+      "url": "#",
+      "category": "Travel Photography",
+      "featured": true,
+      "duration": "2024 - Present"
+    },
+    {
+      "title": "Swadesh Foundation - NGO Documentation",
+      "description": "Comprehensive visual documentation for Swadesh Foundation's social initiatives and community programs. Captured the impact of their work through storytelling photography that highlights community engagement, social causes, and meaningful moments of change.",
+      "tags": ["NGO Photography", "Social Documentation", "Community Photography", "Cause Marketing"],
+      "image": "/shoot/Swadesh Foundation/Swadesh cover image.jpeg",
+      "gallery": [
+        "/shoot/Swadesh Foundation/Swadesh image 1.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 2.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 3.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 4.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 5.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 6.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 7.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 8.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 9.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 10.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 11.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 12.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 13.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 14.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 15.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 16.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 17.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 18.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 19.jpeg",
+        "/shoot/Swadesh Foundation/Swadesh image 20.jpeg"
+      ],
+      "url": "#",
+      "category": "Documentary Photography",
+      "featured": true,
+      "duration": "2024 - Present"
+    },
+    {
+      "title": "ACC Campaign Graphics",
+      "description": "Creative graphic design work for ACC brand campaign, developing visual assets and marketing materials that align with brand guidelines while creating engaging content for promotional activities and brand communication.",
+      "tags": ["Graphic Design", "Brand Campaign", "Marketing Graphics", "Visual Identity"],
+      "image": "/shoot/ACC CAMPAIGN/ACC mini campaign graphics.jpeg",
+      "gallery": [
+        "/shoot/ACC CAMPAIGN/ACC mini campaign graphics img 1.jpeg",
+        "/shoot/ACC CAMPAIGN/ACC mini campaign graphics img 2.jpeg",
+        "/shoot/ACC CAMPAIGN/ACC mini campaign graphics img 3.jpeg"
+      ],
+      "url": "#",
+      "category": "Graphic Design",
       "featured": false,
       "duration": "2024 - Present"
     },
     {
-      "title": "Social Media Content Creation",
-      "description": "Developed engaging visual content for social media platforms, combining photography skills with graphic design expertise to create cohesive brand narratives. Created templates, graphics, and visual assets that drive engagement and maintain consistent brand presence across digital platforms.",
-      "tags": ["Social Media Design", "Content Creation", "Digital Marketing", "Visual Branding"],
-      "image": "/images/AI ARTICLE.png",
+      "title": "Rulane Himachal Festival",
+      "description": "Cultural event photography for Rulane Himachal Festival, capturing the essence of traditional celebrations, cultural performances, and community gatherings. Documented the vibrant atmosphere and cultural significance of this regional festival.",
+      "tags": ["Cultural Photography", "Festival Photography", "Traditional Events", "Regional Culture"],
+      "image": "/shoot/Rulane  the Himachal Festival/Rulane the Himachal festival indoor shoot cover photo.jpeg",
+      "gallery": [
+        "/shoot/Rulane  the Himachal Festival/Rulane the Himachal festival indoor shoot img 1.jpeg"
+      ],
       "url": "#",
-      "github": "#",
-      "category": "Graphic Design",
+      "category": "Cultural Photography",
+      "featured": false,
+      "duration": "2024"
+    },
+    {
+      "title": "Magazine Cover Design",
+      "description": "Professional magazine cover design combining photography and graphic design skills to create compelling editorial layouts. Focused on creating visually striking covers that capture reader attention while maintaining editorial standards.",
+      "tags": ["Magazine Design", "Editorial Design", "Cover Design", "Print Design"],
+      "image": "/shoot/Magzine/Magzine cover page .jpeg",
+      "url": "#",
+      "category": "Editorial Design",
+      "featured": false,
+      "duration": "2024"
+    },
+    {
+      "title": "Light & Indoor Photography",
+      "description": "Specialized indoor photography focusing on creative lighting techniques and controlled environments. Explored various lighting setups to create dramatic and artistic indoor shots with emphasis on mood and atmosphere.",
+      "tags": ["Indoor Photography", "Lighting Techniques", "Studio Photography", "Creative Lighting"],
+      "image": "/shoot/Light/Light travel indoor shoot Cover.jpeg",
+      "gallery": [
+        "/shoot/Light/Light travel image 1.jpeg",
+        "/shoot/Light/Light travel image 2.jpeg",
+        "/shoot/Light/Light travel Image 3.jpeg",
+        "/shoot/Light/Light travel image 4.jpeg"
+      ],
+      "url": "#",
+      "category": "Studio Photography",
+      "featured": false,
+      "duration": "2024"
+    },
+    {
+      "title": "Social Media & Reels",
+      "description": "Creative Instagram reels and social media content showcasing behind-the-scenes photography work, client projects, and creative processes. These reels highlight the dynamic nature of photography work and engage audiences with visual storytelling through short-form video content.",
+      "tags": ["Instagram Reels", "Social Media Content", "Behind-the-Scenes", "Video Content", "Creative Process"],
+      "image": "/shoot/Event Photography/Event Cover Image.jpeg",
+      "reels": [
+        "https://www.instagram.com/reel/DW6PoebDbqN/?igsh=Z213OWZ4dnJiZ2d2",
+        "https://www.instagram.com/reel/DEy6GaRvUZT/?igsh=ZjZnNDIzdzJ5MnVz",
+        "https://www.instagram.com/reel/DYUvpADMPTa/?igsh=cDdxbmNzNnNoMXM1",
+        "https://www.instagram.com/reel/DYPSCPitqxW/?igsh=OWVseW51bG9zbWc4",
+        "https://www.instagram.com/reel/DVOUYRBDIoK/?igsh=NGN2a3ZlM2twdHB2",
+        "https://www.instagram.com/reel/DQj0_EeE47U/?igsh=MXE2b3djaXFiYm5oNw==",
+        "https://www.instagram.com/reel/DPoXvQJjWlA/?igsh=cTYxYmk4MjBoNTEx",
+        "https://www.instagram.com/reel/DYHhCF3sNfg/?igsh=NWdueXh4eDYxdTFm"
+      ],
+      "url": "https://www.instagram.com/raw.creative01",
+      "category": "Social Media",
       "featured": false,
       "duration": "2024 - Present"
     }
